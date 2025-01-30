@@ -1,0 +1,26 @@
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Applications"
+msgstr "Приложения"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Sub-GHz"
+msgstr "Sub-GHz (Саб-ГГц)"
+
+msgid "NFC"
+msgstr "NFC (бесконтактные карты)"
+
+msgid "Infrared"
+msgstr "Инфракрасный"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "BruteForce"
+msgstr "Перебор кодов"
+
+msgid "Relay Attack"
+msgstr "Релейная атака"
